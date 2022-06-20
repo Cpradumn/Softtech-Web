@@ -1,0 +1,47 @@
+﻿#p1 {
+    background-color: brown;
+    color: white;
+    height: 150px;
+    margin: 64px 79px 59px 92px;
+    border: 5px solid black;
+    padding: 21px 12px 21px 12px;
+    box-shadow: 8px 10px 15px #9ee3c3;
+    position: sticky;
+    top: 0;
+}
+
+div {
+    background-color: blueviolet;
+    height: 50px;
+    position: relative;
+    top: 40px;
+    left: 69px;
+    width: 43%;
+}
+
+.commonFont {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.textCentre{
+
+    text-align:center;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#p2 {
+    background-color: chartreuse;
+    height: 40px;
+    position: absolute;
+    top: 235px;
+    left: 136px;
+}

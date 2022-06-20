@@ -1,0 +1,29 @@
+﻿nav {
+    height: 50px;
+    position: fixed;
+    background: lightblue;
+    top: 0;
+    width: 100%;
+}
+
+ul {
+    display: inline-flex;
+    list-style: none;
+    float: right;
+}
+
+    ul li {
+        padding-right: 30px;
+    }
+
+        ul li a {
+            text-decoration: none;
+            font-size: 18px;
+            color: brown;
+            font-weight: bold;
+        }
+
+a:hover {
+    color: darkblue;
+}
+
